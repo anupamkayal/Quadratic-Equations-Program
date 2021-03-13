@@ -1,4 +1,4 @@
-
+#-----------Quadratric Equations-------------
 a= int(input('please enter the value of a:  '))
 b= int(input('please enter the value of b:  '))
 c=int( input('please enter the value of c:  '))
